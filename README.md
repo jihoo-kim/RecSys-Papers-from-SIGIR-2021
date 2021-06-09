@@ -106,7 +106,7 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [L17] Path-based Deep Network for Candidate Item Matching in Recommenders [[PDF](https://arxiv.org/abs/2105.08246)]
 > Houyi Li, Zhihong Chen, Chenliang Li, Rong Xiao, Hongbo Deng, Peng Zhang, Yongchao Liu and Haihong Tang
 
-[L18] New Insights into Metric Optimization for Ranking-based Recommendation [[PDF](https://julian-urbano.info/files/publications/046-new-insights-metric-optimization-ranking-based-recommendation.pdf)]
+[L18] New Insights into Metric Optimization for Ranking-based Recommendation [[PDF](https://julian-urbano.info/files/publications/046-new-insights-metric-optimization-ranking-based-recommendation.pdf)] [[CODE](https://github.com/roger-zhe-li/sigir21-newinsights)]
 > Roger Zhe Li, Julián Urbano and Alan Hanjalic
 
 [L19] Personalized Counterfactual Fairness in Recommendation
@@ -277,14 +277,14 @@ L8, L19, L21, L38, L45, L48, S4, S7
 
 ## Resource Papers
 
-[R1] POINTREC: A Test Collection for Narrative-driven Point of Interest Recommendation
+[R1] POINTREC: A Test Collection for Narrative-driven Point of Interest Recommendation [[PDF](https://arxiv.org/abs/2105.09204)] [[CODE](https://github.com/iai-group/sigir2021-pointrec)]
 > Jafar Afzali, Aleksander Mark Drzewiecki and Krisztian Balog
 
-[R2] Elliot: a Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation
+[R2] Elliot: a Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation [[PDF](https://arxiv.org/abs/2103.02590)] [[CODE](https://github.com/sisinflab/elliot)]
 > Vito Walter Anelli, Alejandro Bellogin, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini and Tommaso Di Noia
 
-[R3] HOOPS: Human-in-the-Loop Graph Reasoning for Conversational Recommendation
+[R3] HOOPS: Human-in-the-Loop Graph Reasoning for Conversational Recommendation [[PDF](http://yongfeng.me/attach/fu-sigir2021.pdf)] [[CODE](https://github.com/zuohuif/HOOPS)] [[DATASET](https://drive.google.com/drive/folders/1gOIsuy3RSqi3UbTnfYyzgVS7msQVRKU5)]
 > Zuohui Fu, Yikun Xian, Yaxin Zhu, Shuyuan Xu, Zelong Li, Gerard de Melo and Yongfeng Zhang
 
-[R4] EXTRA: Explanation Ranking Datasets for Explainable Recommendation
+[R4] EXTRA: Explanation Ranking Datasets for Explainable Recommendation [[PDF](https://arxiv.org/abs/2102.10315)] [[CODE](https://github.com/lileipisces/EXTRA)] [[DATASET](https://drive.google.com/drive/folders/1Kb4pOCUja1EgDlhP-YQI8AxofHBkioT5)]
 > Lei Li, Yongfeng Zhang and Li Chen
