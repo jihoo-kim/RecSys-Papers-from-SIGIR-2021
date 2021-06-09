@@ -1,4 +1,5 @@
 # RecSys-Papers-from-SIGIR-2021
+Papers related to the Recommender System from SIGIR 2021 (including the links for Paper PDF, Github Code and Dataset)
 - L: [Long Papers](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2021/blob/main/README.md#long-papers)
 - S: [Short Papers](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2021/blob/main/README.md#short-papers)
 - R: [Resource Papers](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2021/blob/main/README.md#resource-papers)
