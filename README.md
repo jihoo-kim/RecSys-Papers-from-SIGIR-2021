@@ -1,4 +1,7 @@
 # RecSys-Papers-from-SIGIR-2021
+- L: [Long Papers](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2021/blob/main/README.md#long-papers)
+- S: [Short Papers](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2021/blob/main/README.md#short-papers)
+- R: [Resource Papers](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2021/blob/main/README.md#resource-papers)
   
 ### Collaborative Filtering
 L14, L28, L42
