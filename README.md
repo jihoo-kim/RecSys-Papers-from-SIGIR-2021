@@ -55,10 +55,10 @@ L8, L19, L21, L38, L45, L48, S4, S7
 
 ## Long Papers
 
-[L1] A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images  
+[L1] A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images [[PDF](http://sisinflab.poliba.it/publications/2021/ADDMM21/SIGIR2021_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images.pdf)]
 > Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta and Felice Antonio Merra  
 
-[L2] On Interpretation and Measurement of Soft Attributes for Recommendation  
+[L2] On Interpretation and Measurement of Soft Attributes for Recommendation [[PDF](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9466caf5c19edb6fb95cadb322baf4912c1a1866.pdf)]
 > Krisztian Balog, Filip Radlinski and Alexandros Karatzoglou  
 
 [L3] Category-aware Collaborative Sequential Recommendation  
@@ -76,10 +76,10 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [L7] Structured Graph Convolutional Networks with Stochastic Masks for Recommender Systems  
 > Huiyuan Chen, Lan Wang, Yusan Lin, Michael Yeh, Fei Wang and Hao Yang  
 
-[L8] AutoDebias: Learning to Debias for Recommendation  
+[L8] AutoDebias: Learning to Debias for Recommendation [[PDF](https://arxiv.org/abs/2105.04170)] [[CODE](https://github.com/DongHande/AutoDebias)]
 > Jiawei Chen, Hande Dong, Yang Qiu, Xiangnan He, Xin Xin, Liang Chen, Guli Lin and Keping Yang  
 
-[L9] Set2setRank: Collaborative Set to Set Ranking for Implicit Feedback based Recommendation  
+[L9] Set2setRank: Collaborative Set to Set Ranking for Implicit Feedback based Recommendation [[PDF](https://arxiv.org/abs/2105.07377)]  
 > Lei Chen, Le Wu, Kun Zhang, Richang Hong and Meng Wang  
 
 [L10] Learning Recommender Systems with Implicit Feedback via Soft Target Enhancement  
@@ -88,25 +88,25 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [L11] Unsupervised Proxy Selection for Session-based Recommender Systems  
 > Junsu Cho, Seongku Kang, Dongmin Hyun and Hwanjo Yu  
 
-[L12] Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning  
+[L12] Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning [[PDF](https://arxiv.org/abs/2105.09710)]  
 > Yang Deng, Yaliang Li, Fei Sun, Bolin Ding and Wai Lam  
 
 [L13] ReXPlug: Explainable Recommendation using Plug-and-Play Language Model
 > Deepesh Hada, Vijaikumar M and Shirish Shevade
 
-[L14] Bootstrapping User and Item Representations for One-Class Collaborative Filtering
+[L14] Bootstrapping User and Item Representations for One-Class Collaborative Filtering [[PDF](https://arxiv.org/abs/2105.06323)]
 > Dongha Lee, Seongku Kang, Hyunjun Ju, Chanyoung Park and Hwanjo Yu
 
-[L15] Package Recommendation with Intra- and Inter-Package Attention Networks
+[L15] Package Recommendation with Intra- and Inter-Package Attention Networks [[PDF](http://shichuan.org/doc/108.pdf)]
 > Chen Li, Yuanfu Lu, Wei Wang, Chuan Shi, Ruobing Xie, Haili Yang, Cheng Yang, Xu Zhang and Leyu Lin
 
-[L16] When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution
+[L16] When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution [[PDF](https://arxiv.org/abs/2104.07150)]
 > Chuanhao Li, Qingyun Wu and Hongning Wang
 
-[L17] Path-based Deep Network for Candidate Item Matching in Recommenders
+[L17] Path-based Deep Network for Candidate Item Matching in Recommenders [[PDF](https://arxiv.org/abs/2105.08246)]
 > Houyi Li, Zhihong Chen, Chenliang Li, Rong Xiao, Hongbo Deng, Peng Zhang, Yongchao Liu and Haihong Tang
 
-[L18] New Insights into Metric Optimization for Ranking-based Recommendation
+[L18] New Insights into Metric Optimization for Ranking-based Recommendation [[PDF](https://julian-urbano.info/files/publications/046-new-insights-metric-optimization-ranking-based-recommendation.pdf)]
 > Roger Zhe Li, Julián Urbano and Alan Hanjalic
 
 [L19] Personalized Counterfactual Fairness in Recommendation
@@ -121,13 +121,13 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [L22] Federated Collaborative Transfer for Cross-Domain Recommendation
 > Shuchang Liu, Shuyuan Xu, Wenhui Yu, Zuohui Fu, Yongfeng Zhang and Amelie Marian
 
-[L23] Standing in Your Shoes: External Assessments for Personalized Recommender Systems
+[L23] Standing in Your Shoes: External Assessments for Personalized Recommender Systems [[PDF](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/lu-2021-standing.pdf)]
 > Hongyu Lu, Weizhi Ma, Min Zhang, Maarten de Rijke, Yiqun Liu and Shaoping Ma
 
-[L24] Personalized News Recommendation with Knowledge-aware News Interactions
+[L24] Personalized News Recommendation with Knowledge-aware News Interactions [[PDF](https://arxiv.org/abs/2104.10083)]
 > Tao Qi, Fangzhao Wu, Chuhan Wu and Yongfeng Huang
 
-[L25] The World is Binary: Contrastive Learning for Denoising Next Basket Recommendation
+[L25] The World is Binary: Contrastive Learning for Denoising Next Basket Recommendation [[CODE](https://github.com/QYQ-bot/CLEA)]
 > Yuqi Qin, Pengfei Wang and Chenliang Li
 
 [L26] A Guided Learning Approach for Item Recommendation via Surrogate Loss Learning
@@ -136,7 +136,7 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [L27] Learning to Ask Appropriate Questions in Conversational Recommendation
 > Xuhui Ren, Hongzhi Yin, Tong Chen, Hao Wang, Zi Huang and Kai Zheng
 
-[L28] Neural Graph Matching based Collaborative Filtering
+[L28] Neural Graph Matching based Collaborative Filtering [[PDF](https://arxiv.org/abs/2105.04067)] [[CODE](https://github.com/ruizhang-ai/GMCF_Neural_Graph_Matching_based_Collaborative_Filtering)]
 > Yixin Su, Rui Zhang, Sarah M. Erfani and Junhao Gan
 
 [L29] FORM: Follow the Online Regularized Meta-Leader for Cold-Start Recommendation
@@ -145,16 +145,16 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [L30] User-Centric Path Reasoning towards Explainable Recommendation
 > Chang-You Tai, Huang Liangying, Chienkun Huang and Ku Lun-Wei
 
-[L31] Joint Knowledge Pruning and Recurrent Graph Convolution for News Recommendation
+[L31] Joint Knowledge Pruning and Recurrent Graph Convolution for News Recommendation [[PDF](https://yuh-yang.github.io/resources/kopra.pdf)]
 > Yu Tian, Yuhao Yang, Xudong Ren, Pengfei Wang, Fangzhao Wu, Qian Wang and Chenliang Li
 
-[L32] StackRec: Efficient Training of Very Deep Sequential Recommender Models by Iterative Stacking
+[L32] StackRec: Efficient Training of Very Deep Sequential Recommender Models by Iterative Stacking [[PDF](https://arxiv.org/abs/2012.07598)] [[CODE](https://github.com/wangjiachun0426/StackRec)]
 > Jiachun Wang, Fajie Yuan, Jian Chen, Qingyao Wu, Min Yang, Yang Sun and Guoxiao Zhang
 
-[L33] Privileged Graph Distillation for Cold-start Recommendation
+[L33] Privileged Graph Distillation for Cold-start Recommendation [[PDF](https://arxiv.org/abs/2105.14975)]
 > Shuai Wang, Kun Zhang, Le Wu, Haiping Ma, Richang Hong and Meng Wang
 
-[L34] Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue
+[L34] Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue [[PDF](https://arxiv.org/abs/2009.09945)]
 > Wenjie Wang, Fuli Feng, Xiangnan He, Hanwang Zhang and Tat-Seng Chua
 
 [L35] Counterfactual Data-Augmented Sequential Recommendation
@@ -163,16 +163,16 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [L36] Fight Fire with Fire: Towards Robust Recommender Systems via Adversarial Poisoning Training
 > Chenwang Wu, Defu Lian, Yong Ge, Zhihao Zhu, Enhong Chen and Senchao Yuan
 
-[L37] Self-supervised Graph Learning for Recommendation
+[L37] Self-supervised Graph Learning for Recommendation [[PDF](https://arxiv.org/abs/2010.10783)] [[CODE](https://github.com/wujcan/SGL)]
 > Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian and Xing Xie
 
-[L38] TFROM: A Two-sided Fairness-Aware Recommendation Model for Both Customers and Providers
+[L38] TFROM: A Two-sided Fairness-Aware Recommendation Model for Both Customers and Providers [[PDF](https://arxiv.org/abs/2104.09024)]
 > Yao Wu, Jian Cao, Guandong Xu and Yudong Tan
 
 [L39] Graph Meta Network for Multi-Behavior Recommendation with Interaction Heterogeneity and Diversity
 > Lianghao Xia, Chao Huang, Yong Xu, Peng Dai and Liefeng Bo
 
-[L40] Learning Domain Semantics and Cross-Domain Correlations for Paper Recommendation
+[L40] Learning Domain Semantics and Cross-Domain Correlations for Paper Recommendation [[PDF](http://splab.sdu.edu.cn/download/paper/SIGIR-Cross-210501.pdf)]
 > Yi Xie, Yuqing Sun and Elisa Bertino
 
 [L41] Comparison-based Conversational Recommender System with Relative Bandit Feedback
@@ -187,16 +187,16 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [L44] Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback
 > Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu and Ji-Rong Wen
 
-[L45] Causal Intervention for Leveraging Popularity Bias in Recommendation
+[L45] Causal Intervention for Leveraging Popularity Bias in Recommendation [[PDF](http://staff.ustc.edu.cn/~hexn/papers/sigir21-PDA.pdf)] [[CODE](https://github.com/zyang1580/PDA)]
 > Yang Zhang, Fuli Feng, Xiangnan He, Tianxin Wei, Chonggang Song, Guohui Ling and Yongdong Zhang
 
-[L46] UGRec: Modeling Directed and Undirected Relations for Recommendation
+[L46] UGRec: Modeling Directed and Undirected Relations for Recommendation [[PDF](https://arxiv.org/abs/2105.04183)]
 > Xinxiao Zhao, Zhiyong Cheng, Lei Zhu, Jiecai Zheng and Xueqing Li
 
-[L47] Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks
+[L47] Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks [[PDF](https://arxiv.org/abs/2105.04790)]
 > Yongchun Zhu, Ruobing Xie, Fuzhen Zhuang, Kaikai Ge, Ying Sun, Xu Zhang, Leyu Lin and Juan Cao
 
-[L48] Fairness among New Items in Cold Start Recommender Systems
+[L48] Fairness among New Items in Cold Start Recommender Systems [[PDF](http://people.tamu.edu/~zhuziwei/pubs/Ziwei_SIGIR_2021.pdf)]
 > Ziwei Zhu, Jingu Kim, Trung Nguyen, Aish Fenton and James Caverlee
 
 
