@@ -210,7 +210,7 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [S2] Motif-aware Sequential Recommendation
 > Zeyu Cui, Yinjiang Cai, Shu Wu, Xibo Ma and Liang Wang
 
-[S3] Lighter and Better: Low-Rank Decomposed Self-Attention Networks for Next-Item Recommendation
+[S3] Lighter and Better: Low-Rank Decomposed Self-Attention Networks for Next-Item Recommendation [[PDF](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/LighterandBetter_Low-RankDecomposedSelf-AttentionNetworksforNext-ItemRecommendation.pdf)]
 > Xinyan Fan, Zheng Liu, Jianxun Lian, Wayne Xin Zhao, Xing Xie and Ji-Rong Wen
 
 [S4] The Winner Takes it All: Geographic Imbalance and Provider (Un)fairness in Educational Recommender Systems
@@ -228,13 +228,13 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [S8] Info-flow Enhanced GANs for Recommender
 > Yuan Lin, Zhang Xie, Bo Xu, Kan Xu and Hongfei Lin
 
-[S9] Augmenting Sequential Recommendation with Pseudo-Prior Items via Reversely Pre-training Transformer
+[S9] Augmenting Sequential Recommendation with Pseudo-Prior Items via Reversely Pre-training Transformer [[PDF](https://arxiv.org/abs/2105.00522)] [[CODE](https://github.com/DyGRec/ASReP)]
 > Zhiwei Liu, Ziwei Fan, Yu Wang and Philip S. Yu
 
-[S10] Neural Representations in Hybrid Recommender Systems: Prediction versus Regularization
+[S10] Neural Representations in Hybrid Recommender Systems: Prediction versus Regularization [[PDF](https://arxiv.org/abs/2010.06070)]
 > Ramin Raziperchikolaei, Tianyu Li and Young-joo Chung
 
-[S11] Cluster-Based Bandits: Fast Cold-Start for Recommender System New Users
+[S11] Cluster-Based Bandits: Fast Cold-Start for Recommender System New Users [[PDF](https://www.scss.tcd.ie/Doug.Leith/pubs/sigir16.pdf)]
 > Sulthana Shams, Daron Anderson and Douglas Leith
 
 [S12] Social Recommendation with Implicit Social Influence
@@ -243,22 +243,22 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [S13] Underestimation Refinement: A General Enhancement Strategy for Exploration in Recommendation Systems
 > Yuhai Song, Lu Wang, Haoming Dang, Weiwei Zhou, Jing Guan, Xiwei Zhao, Changping Peng, Yongjun Bao and Jingping Shao
 
-[S14] Counterfactual Explanations for Neural Recommenders
+[S14] Counterfactual Explanations for Neural Recommenders [[PDF](https://arxiv.org/abs/2105.05008)] [[CODE](https://github.com/hieptk/accent)]
 > Khanh Hiep Tran, Azin Ghazimatin and Rishiraj Saha Roy
 
-[S15] Sequential Recommendation for Cold-start Users with Meta Transitional Learning
+[S15] Sequential Recommendation for Cold-start Users with Meta Transitional Learning [[PDF](http://people.tamu.edu/~jwang713/pubs/MetaTL-sigir2021)]
 > Jianling Wang, Kaize Ding and James Caverlee
 
 [S16] Cross-Batch Negative Sampling for Training Two-Tower Recommenders
 > Jinpeng Wang, Jieming Zhu and Xiuqiang He
 
-[S17] Empowering News Recommendation with Pre-trained Language Models
+[S17] Empowering News Recommendation with Pre-trained Language Models [[PDF](https://arxiv.org/abs/2104.07413)]
 > Chuhan Wu, Fangzhao Wu, Tao Qi and Yongfeng Huang
 
-[S18] Bayesian Critiquing with Keyphrase Activation Vectors for VAE-based Recommender Systems
+[S18] Bayesian Critiquing with Keyphrase Activation Vectors for VAE-based Recommender Systems [[PDF](https://ssanner.github.io/papers/sigir21_tcavcrit.pdf)]
 > Hojin Yang, Tianshu Shen and Scott Sanner
 
-[S19] ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation
+[S19] ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation [[PDF](https://arxiv.org/abs/2105.02254)] [[CODE](https://github.com/YangLiangwei/ConsisRec)]
 > Liangwei Yang, Zhiwei Liu, Yingtong Dou, Jing Ma and Philip S. Yu
 
 [S20] ICAI-SR: Item Categorical Attribute Integrated Sequential Recommendation
@@ -270,7 +270,7 @@ L8, L19, L21, L38, L45, L48, S4, S7
 [S22] Temporal Augmented Graph Neural Networks for Session-Based Recommendations
 > Huachi Zhou, Qiaoyu Tan, Xiao Huang, Kaixiong Zhou and Xiaoling Wang
 
-[S23] Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users
+[S23] Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users [[PDF](https://arxiv.org/abs/2105.04785)]
 > Yongchun Zhu, Kaikai Ge, Fuzhen Zhuang, Ruobing Xie, Dongbo Xi, Xu Zhang, Leyu Lin and Qing He
 
 ----------------------------
